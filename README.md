@@ -1,5 +1,4 @@
 # Cyber Threat Approach:
-========================
 
 In this repository we aim to contribute to the operotionalization of cyberspace by proposing an empirically-driven pipeline to enable
 consistent measurement, identification and characterization of cyber threat dynamics amid warfare events. Specifically, we leverage Internet-wide empirical data from diverse sources, namely, (i) dark IP address spaces on the Internet to detect backscatter and scanning probes, (ii) globally distributed User Datagram Protocol (UDP) sensors to quantify reflective amplification attempts, and (iii) route collectors to ingest Border Gateway Protocol (BGP) routing data. Considering the ongoing 2022 Russo-Ukrainian conflict, we perceive an opportunity to demonstrate the capability of our proposed model.

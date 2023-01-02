@@ -1,3 +1,3 @@
 # BGP Analysis
 
-Note: needs access to install pybgpstream: https://github.com/CAIDA/pybgpstream
+Note: needs pybgpstream installation: https://github.com/CAIDA/pybgpstream

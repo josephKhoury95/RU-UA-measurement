@@ -1,5 +1,6 @@
 # Darknet Analysis:
 
+Note: needs access to the MERIT ORION Network Telescope: https://github.com/Merit-Research/darknet-events
 
 Backscatter events:   
  
